@@ -10,3 +10,4 @@ leetcode814  ||binary tree pruning        ||binary tree           ||recursive   
 leetcode98   ||validate binary search tree||binary tree           ||revursive          ||mid
 leetcode230  ||kth smallest element in BST||binary tree           ||recursive          ||mid
 leetcode257  ||binary tree paths          ||binary tree           ||recursive backtrack||mid
+leetcode46   ||permutations               ||vector                ||recursive backtrack||mid

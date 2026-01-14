@@ -13,3 +13,4 @@ leetcode257  ||binary tree paths           ||binary tree           ||recursive b
 leetcode46   ||permutations                ||vector                ||recursive backtrack||mid
 leetcode78   ||subsets                     ||vector                ||recursive backtrack||mid
 leetcode1863 ||sum of all subset XOR totals||vector                ||recursive backtrack||easy
+leetcode47   ||permutations 2              ||vector                ||recursive backtrack||mid

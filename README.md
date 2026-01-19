@@ -15,3 +15,4 @@ leetcode78   ||subsets                     ||vector                ||recursive b
 leetcode1863 ||sum of all subset XOR totals||vector                ||recursive backtrack||easy
 leetcode47   ||permutations 2              ||vector                ||recursive backtrack||mid
 leetcode17   ||letter combination of phone number ||string         ||recursive backtrack||mid
+leetcode22   ||generate parentheses        ||string                ||recursive backtrack||mid

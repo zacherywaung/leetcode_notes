@@ -18,3 +18,4 @@ leetcode17   ||letter combination of phone number ||string         ||recursive b
 leetcode22   ||generate parentheses        ||string                ||recursive backtrack||mid
 leetcode77   ||combinations                ||vector                ||recursive backtrack||mid
 leetcode494  ||target sum                  ||vector                ||recursive backtrack||mid
+leetcode39   ||combination sum             ||vector                ||recursive backtrack||mid

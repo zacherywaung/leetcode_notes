@@ -19,3 +19,4 @@ leetcode22   ||generate parentheses        ||string                ||recursive b
 leetcode77   ||combinations                ||vector                ||recursive backtrack||mid
 leetcode494  ||target sum                  ||vector                ||recursive backtrack||mid
 leetcode39   ||combination sum             ||vector                ||recursive backtrack||mid
+leetcode784  ||letter case permutation     ||string                ||recursive backtrack||mid

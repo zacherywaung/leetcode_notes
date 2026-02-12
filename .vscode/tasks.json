@@ -9,9 +9,9 @@
 				"-std=c++11",
 				"-fdiagnostics-color=always",
 				"-g",
-				"${workspaceFolder}/leetcode/24_swap_nodes_in_pairs.cpp",
+				"${workspaceFolder}/leetcode/526_beautiful_arrangement.cpp",
 				"-o",
-				"${workspaceFolder}/leetcode/24_swap_nodes_in_pairs"
+				"${workspaceFolder}/leetcode/526_beautiful_arrangement"
 			],
 			"options": {
 				"cwd": "${fileDirname}"

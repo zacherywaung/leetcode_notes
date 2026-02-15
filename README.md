@@ -20,3 +20,4 @@ leetcode77   ||combinations                ||vector                ||recursive b
 leetcode494  ||target sum                  ||vector                ||recursive backtrack||mid
 leetcode39   ||combination sum             ||vector                ||recursive backtrack||mid
 leetcode784  ||letter case permutation     ||string                ||recursive backtrack||mid
+leetcode860  ||lemonade change             ||vector                ||greedy             ||easy

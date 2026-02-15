@@ -24,3 +24,4 @@ leetcode860  ||lemonade change             ||vector                ||greedy     
 leetcode2208 ||minimum operations to ...   ||priority_queue        ||greedy             ||mid
 leetcode179  ||largest number              ||string                ||greedy, sort       ||mid
 leetcode376  ||wiggle subsequence          ||vector                ||greedy             ||mid
+leetcode1137 ||nth tribonacci number       ||vector                ||dynamic programing ||easy

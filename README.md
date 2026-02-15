@@ -22,3 +22,4 @@ leetcode39   ||combination sum             ||vector                ||recursive b
 leetcode784  ||letter case permutation     ||string                ||recursive backtrack||mid
 leetcode860  ||lemonade change             ||vector                ||greedy             ||easy
 leetcode2208 ||minimum operations to ...   ||priority_queue        ||greedy             ||mid
+leetcode179  ||largest number              ||string                ||greedy, sort       ||mid

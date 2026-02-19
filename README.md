@@ -28,3 +28,4 @@ leetcode1137 ||nth tribonacci number       ||vector                ||dynamic pro
 lcci0801     ||three steps problem         ||vector                ||dynamic programing ||easy
 leetcode746  ||min cost climbing stairs    ||vector                ||dynamic programing ||easy
 leetcode91   ||decode ways                 ||vector                ||dynamic programing ||mid
+leetcode283  ||move zeros                  ||vector                ||two pointers       ||easy

@@ -31,3 +31,4 @@
 |leetcode283 |move zeros                   |vector                |two pointers        |easy
 |leetcode1089|duplicate zeros              |vector                |two pointers        |easy
 |leetcode11  |container with most water    |vector                |two pointers        |mid
+|leetcode611 |valid triangle number        |vector                |two pointers        |mid

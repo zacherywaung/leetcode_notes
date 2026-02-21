@@ -29,6 +29,7 @@
 |leetcode746 |min cost climbing stairs     |vector                |dynamic programing  |easy
 |leetcode91  |decode ways                  |vector                |dynamic programing  |mid
 |leetcode283 |move zeros                   |vector                |two pointers        |easy
-|leetcode1089|duplicate zeros              |vector                |two pointers        |easy
+|leetcode1089|duplicate zeros              |vector                |two pointers        |easy+
 |leetcode11  |container with most water    |vector                |two pointers        |mid
 |leetcode611 |valid triangle number        |vector                |two pointers        |mid
+|leetcode167 |two sum 2                    |vector                |two pointers        |mid-

@@ -33,3 +33,4 @@
 |leetcode11  |container with most water    |vector                |two pointers        |mid
 |leetcode611 |valid triangle number        |vector                |two pointers        |mid
 |leetcode167 |two sum 2                    |vector                |two pointers        |mid-
+|leetcode15  |3 sum                        |vector                |two pointers        |mid

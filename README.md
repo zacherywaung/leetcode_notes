@@ -37,3 +37,4 @@
 |leetcode18  |4 sum                        |vector                |two pointers        |mid
 |leetcode209 |minimum size subarray sum    |vector                |sliding window      |mid
 |leetcode3   |longest substring without ...|vector, hash set      |sliding window      |mid
+|leetcode1004|max consecutive ones 3       |vector                |sliding window      |mid

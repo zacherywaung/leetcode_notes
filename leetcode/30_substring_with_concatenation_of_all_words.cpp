@@ -29,12 +29,12 @@ public:
                 // enter window
                 string in = s.substr(right, step);
                 hash2[in]++;
-                if(hash2[in] <= hash1[in]) cnt++;
+                if(hash1.count(in) && hash2[in] <= hash1[in]) cnt++;
                 if((right - left + 1) > wide)
                 {
                     // leave window
                     string out = s.substr(left, step);
-                    if(hash2[out] <= hash1[out]) cnt--;
+                    if(hash1.count(out) && hash2[out] <= hash1[out]) cnt--;
                     hash2[out]--;
                     left += step;
                 }

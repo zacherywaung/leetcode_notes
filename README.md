@@ -41,3 +41,4 @@
 |leetcode1658|minimum operations to ...    |vector                |sliding window      |mid
 |leetcode904 |fruit into baskets           |vector, unordered_map |sliding window      |mid
 |leetcode438 |find all anagrams in a string|vector, hash set      |sliding window      |mid
+|leetcode30  |substring with ...           |string, unordered_map |sliding window      |hard

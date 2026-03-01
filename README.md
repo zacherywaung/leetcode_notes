@@ -43,3 +43,4 @@
 |leetcode438 |find all anagrams in a string|vector, hash set      |sliding window      |mid
 |leetcode30  |substring with ...           |string, unordered_map |sliding window      |hard
 |leetcode76  |minimum window substring     |string, hash set      |sliding window      |hard
+|leetcode704 |binary search                |vector                |binary search       |easy

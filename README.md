@@ -44,3 +44,4 @@
 |leetcode30  |substring with ...           |string, unordered_map |sliding window      |hard
 |leetcode76  |minimum window substring     |string, hash set      |sliding window      |hard
 |leetcode704 |binary search                |vector                |binary search       |easy
+|leetcode34  |find first and last ...      |vector                |binary search       |mid

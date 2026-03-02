@@ -46,3 +46,4 @@
 |leetcode704 |binary search                |vector                |binary search       |easy
 |leetcode34  |find first and last ...      |vector                |binary search       |mid
 |leetcode69  |sqrt(x)                      |-                     |binary search       |easy
+|leetcode35  |search insert position       |vector                |binary search       |easy

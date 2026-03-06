@@ -49,3 +49,4 @@
 |leetcode35  |search insert position       |vector                |binary search       |easy
 |leetcode852 |peak index in a mountain ... |vector                |binary search       |mid
 |leetcode162 |find peak element            |vector                |binary search       |mid
+|leetcode153 |find minimum in rotated ...  |vector                |binary search       |mid
